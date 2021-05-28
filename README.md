@@ -1,0 +1,2 @@
+# Drum-kit
+Hola ! I worked on a website based on html,css ,javascript.Specifically,to learn javascript and how to apply javascript into the website.I made this one page website where u will find when u press the letter with mouse or with keyboard you will get a sound of  specific instrument.I loved making this project and will work on similar application big project in future.JAVASCRIPT is the main player which changes the behaviour of the stand-still website.
